@@ -1,0 +1,28 @@
+img
+{
+	float: bottom;
+}
+
+em
+{
+	font-style: italic;
+}
+
+.pied_de_page
+{
+	background-color: black;
+}
+
+.images_reseaux_sociaux
+{
+	margin: 20px;
+	border-radius: 90px;
+	width: 100px;
+	height: 100px;
+}
+
+.navbar-inverse
+{
+	height: 80px;
+	background-color: #0f0f0f;
+}
