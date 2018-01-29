@@ -23,6 +23,11 @@ em
 
 .navbar-inverse
 {
-	height: 80px;
+	height: 90px;
 	background-color: #0f0f0f;
+}
+
+.carousel
+{
+	width: 100%;
 }

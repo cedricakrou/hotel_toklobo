@@ -4,9 +4,9 @@
 
 			<nav class="navbar navbar-inverse col-lg-12">
 
-                <span class="navbar-header col-lg-3 pull-left">
+                <div class="navbar-header col-lg-3 pull-left">
                     <a class="navbar-brand" href="../index.php" > <img src="images/alfresco.ico" style="width:50px" /> </a>
-                </span>
+                </div>
 
 				<ul class="nav navbar-nav col-lg-offset-5 col-lg-4 pull-right">
 					<li> <a href="#">Accueil</a> </li>

@@ -14,15 +14,15 @@
 
 		<?php include('menu/menu.php') ?>
 
-		<div class="container">
+		<div class="container-fluid">
 
 			<div class="row">
 				<div id="carousel" class="carousel slide col-lg-12">
 
 					<div class="carousel-inner">
-						<div class="item"> <img src="images/image_carousel/carousel1.jpeg" /> </div>
-						<div class="item  active"> <img src="images/image_carousel/carousel2.jpeg" /> </div>
-						<div class="item"> <img src="images/image_carousel/carousel3.jpeg" /> </div>
+						<div class="item"> <img class="image_carousel" src="images/image_carousel/carousel1.jpg" /> </div>
+						<div class="item"> <img src="images/image_carousel/carousel2.jpg" /> </div>
+						<div class="item active"> <img src="images/image_carousel/carousel3.jpg" /> </div>
 					</div>
 
 
